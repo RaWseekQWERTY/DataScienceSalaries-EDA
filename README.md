@@ -9,3 +9,8 @@ The dataset includes information on the percentage of remote work allowed, which
 Trends in data science salaries over time can be analysed by examining salary data across different work years. 
 It also serves as an motivation for bachelors pursuing a career in Data Science and it can be derived that although it may take more time, we all will get there one day. 
 All things considered, this dataset is a useful tool for understanding trends in data science salaries, variables impacting salaries, and making reasonable decisions about pay and employment in the data science industry.
+
+
+## Analysis
+1. Top 15 Jobs
+   ![Top 15 Jobs](https://imgur.com/a/q7Gq3lL)
