@@ -14,5 +14,20 @@ All things considered, this dataset is a useful tool for understanding trends in
 ## Analysis
 1. Top 15 Jobs
    
-   -> <img src="https://i.imgur.com/KmfiC2I.png" alt="Top 15 Jobs" width="500"/>
+   <img src="https://i.imgur.com/KmfiC2I.png" alt="Top 15 Jobs" width="500"/>
 
+2. Salary by Job Title
+
+   <img src="https://i.imgur.com/qpEZSfw.png" alt="Salary by job title" width="500"/>
+
+4. Salary by experience
+
+   <img src="https://i.imgur.com/gIr6Ldh.png" alt="Salary by exp" width="500"/>
+
+6. Histogram of salary
+
+   <img src="https://i.imgur.com/BAxprkD.png" alt="Histogram of salary" width="500"/>
+
+8. Box plot of salary and exp level
+
+   <img src="https://i.imgur.com/YqEL99z.png" alt="Box plot" width="500"/>
